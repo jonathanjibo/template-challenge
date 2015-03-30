@@ -10,3 +10,5 @@ npm install
 #Running
 
 Just run `gulp` in the root directort, then open up `localhost:9000` in Chrome.
+
+Any changes you make to JavaScript, HTML, or CSS will automatically reload the browser using `browser-sync`.
